@@ -1,0 +1,30 @@
+D:\C# проэкты\AstronomyGuide\obj\Debug\AstronomyGuide.csproj.AssemblyReference.cache
+D:\C# проэкты\AstronomyGuide\obj\Debug\AstronomyGuide.Form1.resources
+D:\C# проэкты\AstronomyGuide\obj\Debug\AstronomyGuide.Properties.Resources.resources
+D:\C# проэкты\AstronomyGuide\obj\Debug\AstronomyGuide.csproj.GenerateResource.cache
+D:\C# проэкты\AstronomyGuide\obj\Debug\AstronomyGuide.csproj.CoreCompileInputs.cache
+D:\C# проэкты\AstronomyGuide\obj\Debug\AstronomyGuide.AddEditForm.resources
+D:\C# проэкты\AstronomyGuide\bin\Debug\AstronomyGuide.exe.config
+D:\C# проэкты\AstronomyGuide\bin\Debug\AstronomyGuide.exe
+D:\C# проэкты\AstronomyGuide\bin\Debug\AstronomyGuide.pdb
+D:\C# проэкты\AstronomyGuide\bin\Debug\Newtonsoft.Json.dll
+D:\C# проэкты\AstronomyGuide\bin\Debug\Newtonsoft.Json.xml
+D:\C# проэкты\AstronomyGuide\obj\Debug\Astronom.3AF47FD0.Up2Date
+D:\C# проэкты\AstronomyGuide\obj\Debug\AstronomyGuide.exe
+D:\C# проэкты\AstronomyGuide\obj\Debug\AstronomyGuide.pdb
+D:\C# проэкты\AstronomyGuide\bin\Debug\stars.json
+D:\projects\AstronomyGuide\bin\Debug\stars.json
+D:\projects\AstronomyGuide\bin\Debug\AstronomyGuide.exe.config
+D:\projects\AstronomyGuide\bin\Debug\AstronomyGuide.exe
+D:\projects\AstronomyGuide\bin\Debug\AstronomyGuide.pdb
+D:\projects\AstronomyGuide\bin\Debug\Newtonsoft.Json.dll
+D:\projects\AstronomyGuide\bin\Debug\Newtonsoft.Json.xml
+D:\projects\AstronomyGuide\obj\Debug\AstronomyGuide.csproj.AssemblyReference.cache
+D:\projects\AstronomyGuide\obj\Debug\AstronomyGuide.AddEditForm.resources
+D:\projects\AstronomyGuide\obj\Debug\AstronomyGuide.Form1.resources
+D:\projects\AstronomyGuide\obj\Debug\AstronomyGuide.Properties.Resources.resources
+D:\projects\AstronomyGuide\obj\Debug\AstronomyGuide.csproj.GenerateResource.cache
+D:\projects\AstronomyGuide\obj\Debug\AstronomyGuide.csproj.CoreCompileInputs.cache
+D:\projects\AstronomyGuide\obj\Debug\Astronom.3AF47FD0.Up2Date
+D:\projects\AstronomyGuide\obj\Debug\AstronomyGuide.exe
+D:\projects\AstronomyGuide\obj\Debug\AstronomyGuide.pdb
